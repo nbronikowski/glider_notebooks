@@ -1,4 +1,4 @@
-# Glider Processing Scripts
+# My own python notebooks
 
 My own jupyter notebooks for processing/plotting data and other tasks as needed. I drop them here to share work when neeeded or when I have something I want to find later
 
