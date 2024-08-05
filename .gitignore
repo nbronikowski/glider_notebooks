@@ -1,0 +1,10 @@
+*.ipynb_checkpoints
+*.git
+*.nc
+*.ad2cp
+*.zip
+*.dbd
+*.ebd
+*.dcd
+*.ecd
+*.DS_store
